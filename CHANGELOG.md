@@ -1,3 +1,23 @@
+# [0.4.0](https://github.com/toolisticon/nativescript-buildhelper/compare/v0.3.1...v0.4.0) (2019-03-01)
+
+
+### Bug Fixes
+
+* **Build:** Correct build run scripts ([7577308](https://github.com/toolisticon/nativescript-buildhelper/commit/7577308))
+* **Security:** Resolve dependency issues ([a8eb37a](https://github.com/toolisticon/nativescript-buildhelper/commit/a8eb37a))
+
+
+### Code Refactoring
+
+* **Naming:** rename package ([5e44cb0](https://github.com/toolisticon/nativescript-buildhelper/commit/5e44cb0))
+
+
+### BREAKING CHANGES
+
+* **Naming:** new package name is now `@toolisticon/nativescript-buildhelper` and debug var is `tns_buildhelper_debug`
+
+
+
 ## [0.3.1](https://github.com/toolisticon/nativescript-buildhelper/compare/v0.3.0...v0.3.1) (2018-11-01)
 
 
