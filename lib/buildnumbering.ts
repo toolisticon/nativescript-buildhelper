@@ -9,7 +9,7 @@ import { exec } from 'child_process';
 //  e.g. release_notes.js 42 -> uses 42 as build number
 
 const ARGS = process.argv.slice(2);
-const DEBUG_ENV = 'holisticon_tns';
+const DEBUG_ENV = 'tns_buildhelper_debug';
 
 let debugLog = util.debuglog(DEBUG_ENV);
 
